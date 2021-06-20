@@ -7,5 +7,9 @@
   "dependencies": {
     "@types/node": "^15.12.4",
     "discord.js": "^12.5.3"
+  },
+
+  "scripts": {
+    "dev":"npx nodemon --legacy-watch --watch 'src/**/*.ts' --exec ' npx' ts-node src/main.ts"
   }
 }
