@@ -1,0 +1,11 @@
+{
+  "name": "s0apysbitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Linus Jansson <00janson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^15.12.4",
+    "discord.js": "^12.5.3"
+  }
+}
